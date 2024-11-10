@@ -2,6 +2,12 @@
 
 ## steps to follow to automate DR(Leap)
 
+
+
+
+
+
+
 *category_creation.py* : Use for creating category with key value pair
 
 *creating_subnet.py* : Use to create subnet 
